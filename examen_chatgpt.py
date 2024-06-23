@@ -5,7 +5,7 @@ import random
 
 # Configuración de la API de OpenAI
 api_url = "https://api.openai.com/v1/chat/completions"
-api_key = "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"  # Reemplaza con tu clave de API
+api_key = "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"  # Reemplaza con tu clave de API
 headers = {
     "Authorization": f"Bearer {api_key}",
     "Content-Type": "application/json"
